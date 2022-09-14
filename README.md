@@ -1,2 +1,4 @@
 # Data Diri
-Ammar
+
+- Ammar
+- Dicky
