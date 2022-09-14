@@ -1,5 +1,5 @@
 # Data Diri
 
 - Ammar
-- Dick
+- Dicky 
 - Ipul
